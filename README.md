@@ -15,5 +15,10 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/joydip7/PhotoPedia/tree/master/0125-valid-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/joydip7/PhotoPedia/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/joydip7/PhotoPedia/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
