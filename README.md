@@ -16,14 +16,20 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/joydip7/PhotoPedia/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/joydip7/PhotoPedia/tree/master/0125-valid-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/joydip7/PhotoPedia/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/joydip7/PhotoPedia/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/joydip7/PhotoPedia/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/joydip7/PhotoPedia/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/joydip7/PhotoPedia/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
