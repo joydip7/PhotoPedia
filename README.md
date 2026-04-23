@@ -34,8 +34,17 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joydip7/PhotoPedia/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/joydip7/PhotoPedia/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/joydip7/PhotoPedia/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/joydip7/PhotoPedia/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/joydip7/PhotoPedia/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/joydip7/PhotoPedia/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
