@@ -47,4 +47,8 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/joydip7/PhotoPedia/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
