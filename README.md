@@ -53,6 +53,7 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 | ------- |
 | [0002-add-two-numbers](https://github.com/joydip7/PhotoPedia/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
