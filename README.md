@@ -42,6 +42,7 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/joydip7/PhotoPedia/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/joydip7/PhotoPedia/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -50,5 +51,10 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/joydip7/PhotoPedia/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/joydip7/PhotoPedia/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
