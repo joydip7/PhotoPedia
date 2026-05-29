@@ -26,6 +26,7 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 | [0005-longest-palindromic-substring](https://github.com/joydip7/PhotoPedia/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/joydip7/PhotoPedia/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/joydip7/PhotoPedia/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +58,7 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 | [0206-reverse-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
