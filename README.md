@@ -87,5 +87,14 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/joydip7/PhotoPedia/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/joydip7/PhotoPedia/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/joydip7/PhotoPedia/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
