@@ -17,6 +17,7 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joydip7/PhotoPedia/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/joydip7/PhotoPedia/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/joydip7/PhotoPedia/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/joydip7/PhotoPedia/tree/master/0125-valid-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/joydip7/PhotoPedia/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -87,6 +88,7 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/joydip7/PhotoPedia/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/joydip7/PhotoPedia/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/joydip7/PhotoPedia/tree/master/0234-palindrome-linked-list) |
 ## Design
@@ -97,4 +99,8 @@ This project helped me strengthen my fundamentals in layout design, positioning,
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/joydip7/PhotoPedia/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/joydip7/PhotoPedia/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
